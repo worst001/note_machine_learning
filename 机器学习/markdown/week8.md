@@ -1,11 +1,11 @@
----
-typora-root-url: ..\images
----
-
+<!-- --- -->
+<!-- typora-root-url: ..\images -->
+<!-- --- -->
+<!--  -->
 
 第8周
 =====
-[TOC]
+<!-- [TOC] -->
 十三、聚类(Clustering)
 ----------------------
 
