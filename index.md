@@ -1,3 +1,14 @@
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![Stargazers][stars-shield]][stars-url]
+<!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
+
+<!-- PROJECT LOGO -->
+
 # 机器学习
 
 ## 基本概念
@@ -206,3 +217,16 @@ PyTorch 是一个开源的深度学习框架，由 Facebook 的人工智能研�
 Stable Diffusion是2022年发布的深度学习文本到图像生成模型。
 它主要用于根据文本的描述产生详细图像，尽管它也可以应用于其他任务，如内补绘制、外补绘制，以及在提示词指导下产生图生图的转变。
 
+
+<!-- links -->
+[your-project-path]:shaojintian/Best_README_template
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_machine_learning.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/mkdocs_machine_learning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_machine_learning.svg?style=flat-square
+[forks-url]: https://github.com/worst001/mkdocs_machine_learning/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_machine_learning.svg?style=social
+[stars-url]: https://github.com/worst001/mkdocs_machine_learning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_machine_learning.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_machine_learning.svg
+[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_machine_learning.svg?style=flat-square
+[license-url]: https://github.com/worst001/mkdocs_machine_learning/blob/main/LICENSE.txt
