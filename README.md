@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -9,7 +10,37 @@
 
 <!-- PROJECT LOGO -->
 
-# 机器学习
+<!-- 项目LOGO -->
+<br />
+<div align="center">
+  <a href="http://mkdocs.grft.top">
+    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
+  </a>
+
+  <h3 align="center">机器学习</h3>
+
+  <p align="center">
+    <br />
+    <a href="http://mkdocs.grft.top/机器学习/"><strong>探索文档 »</strong></a>
+    <br />
+  </p>
+</div>
+
+<!-- 目录 -->
+<details>
+  <summary>目录</summary>
+  <ol>
+    <li><a href="#关于项目">关于项目</a></li>
+    <li><a href="#什么是机器学习">什么是机器学习</a></li>
+    <li><a href="#技术目录">技术目录</a></li>
+    <li><a href="#贡献">贡献</a></li>
+    <li><a href="#许可证">许可证</a></li>
+    <li><a href="#联系方式">联系方式</a></li>
+    <li><a href="#鸣谢">鸣谢</a></li>
+  </ol>
+</details>
+
+## 关于项目
 
 整理了机器学习相关资料与手册，包括数学基础、机器学习模型实现示例、神经网络。
 
@@ -21,9 +52,9 @@
 
 - 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 基本概念
+## 什么是机器学习
 
 机器学习是人工智能领域的一种方法，它利用算法和统计模型来使计算机系统根据输入数据进行预测或做出决策，而无需使用明确的指令。它主要依赖于模式识别和计算学习理论。
 
@@ -44,20 +75,20 @@
 + 半监督学习（Semi-Supervised Learning）：结合了监督学习和无监督学习的特性，其中只有一部分数据被标记。
 + 增强学习（Reinforcement Learning）：模型需要通过与环境的交互，根据奖励信号来学习最优策略。
 
---------------------
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 目录
+## 技术目录
 
 [目录与大纲](index.md)
 
-## 数学基础
+### 数学基础
 
 + [高等数学](机器学习/markdown/高等数学.md)
 + [线性代数](机器学习/markdown/线性代数.md)
 + [概率论](机器学习/markdown/概率论.md)
 
 
-## 理论知识
+### 理论知识
 
 + [目录](机器学习/markdown/SUMMARY.md)
 + [单变量线性回归](机器学习/markdown/week1.md)
@@ -73,7 +104,7 @@
 + [完整笔记](机器学习/机器学习个人笔记完整版v5.52.pdf)
 
 
-## 编程与案例实现
+### 编程与案例实现
 
 + [NumPy](http://c.biancheng.net/numpy/)
 + [Pandas 数据分析](http://c.biancheng.net/pandas/)
@@ -84,44 +115,59 @@
 
 <!-- [Python + Jupyter 案例实现](机器学习/Python实现/readme.md) -->
 
-## 深度学习(神经网络)
+### 深度学习(神经网络)
 
 + [资料总览](深度学习/README.md)
 + [TensorFlow](https://www.tensorflow.org/guide?hl=zh-cn)
 + [PyTorch](https://pytorch.apachecn.org/)
 
 
-## 数据挖掘
+### 数据挖掘
 
 + [资料总览](数据挖掘/Python数据分析与挖掘实战.pdf)
 
 
-## Stable Diffusion
+### Stable Diffusion
 
 + [WebUI 已集成Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 + [Diffusion 模块网站](https://civitai.com/)
 
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
--------------------
+<!-- 贡献 -->
+
+## 贡献
+
+贡献是使开源社区成为一个如此令人惊叹的地方，以学习、激励和创造。您所做的任何贡献都将非常感谢。
+
+如果您对使这个项目变得更好有建议，请 fork 该仓库并创建 pull request。您也可以打开一个带有“enhancement”标签的问题。不要忘记给这个项目点个星！再次感谢！
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 
-## 版本控制
+<!-- 许可证 -->
+## 许可证
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+根据 MIT 许可证进行分发。更多信息请参见 [LICENSE.txt](LICENSE)。
 
-<!-- ## 作者 -->
-<!--  -->
-<!-- [小昊子](https://github.com/worst001) -->
-<!--  -->
-<!-- 制做不易，如果有帮到你就请作者喝杯咖啡吧! -->
-<!--  -->
-<!-- ![支付宝加微信](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8A%A0%E5%BE%AE%E4%BF%A1.jpg) -->
-<!--  -->
-<!-- 作者无聊时做的测试游戏，完全免费哦！ -->
-<!--  -->
-<!-- ![公众号](https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%B8%8E%E6%94%AF%E4%BB%98/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%B0%8F.jpg) -->
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
-## 参考资料
+<!-- 联系方式 -->
+## 联系方式
+
+关注我: [小昊子](https://github.com/worst001)
+
+博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+
+项目链接: [https://github.com/worst001/mkdocs_machine_learning](https://github.com/worst001/mkdocs_machine_learning)
+
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
+
+## 鸣谢
+
+因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
+
+所有引用的原资料都确认是开源认证，若有侵权请告知。
 
 [https://github.com/lawlite19/MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python)
 
@@ -129,12 +175,9 @@
 
 [https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
+[https://openai.com/chatgpt](https://openai.com/chatgpt)
 
-### 写在最后的话
-
-因为仓库与文档的数量比较大，有些借鉴资料忘了在`参考文档`部分提及原作者与原仓库，若有疏漏请告诉，我及时补上。
-
-所有引用的原资料都确认是开源认证，若有侵权请告知。
+<p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
