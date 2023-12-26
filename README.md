@@ -13,9 +13,9 @@
 <!-- 项目LOGO -->
 <br />
 <div align="center">
-  <a href="http://mkdocs.grft.top">
-    <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270">
-  </a>
+  <!-- <a href="http://mkdocs.grft.top"> -->
+  <!--   <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270"> -->
+  <!-- </a> -->
 
   <h3 align="center">机器学习</h3>
 
