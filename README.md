@@ -13,7 +13,7 @@
 <!-- 项目LOGO -->
 <br />
 <div align="center">
-  <!-- <a href="http://mkdocs.grft.top"> -->
+  <!-- <a href="http://note.grft.top"> -->
   <!--   <img src="https://xiyou-oss.oss-cn-shanghai.aliyuncs.com/mkdocs/logo.png" alt="Logo" width="480" height="270"> -->
   <!-- </a> -->
 
@@ -21,7 +21,7 @@
 
   <p align="center">
     <br />
-    <a href="http://mkdocs.grft.top/机器学习/"><strong>探索文档 »</strong></a>
+    <a href="http://note.grft.top/机器学习/"><strong>探索文档 »</strong></a>
     <br />
   </p>
 </div>
@@ -46,11 +46,11 @@
 
 公网资料、笔记地址请访问这里 
 
-- 文档地址: [http://mkdocs.grft.top/机器学习/](http://mkdocs.grft.top/机器学习/)
+- 文档地址: [http://note.grft.top/机器学习/](http://note.grft.top/机器学习/)
 
 其他相关技术可以访问我的博客，主页地址请访问这里
 
-- 访问入口：[http://mkdocs.grft.top](http://mkdocs.grft.top)
+- 访问入口：[http://note.grft.top](http://note.grft.top)
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
@@ -157,7 +157,7 @@
 
 关注我: [小昊子](https://github.com/worst001)
 
-博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
+博客地址: [http://note.grft.top](http://note.grft.top)
 
 项目链接: [https://github.com/worst001/note_machine_learning](https://github.com/worst001/note_machine_learning)
 
