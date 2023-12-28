@@ -159,7 +159,7 @@
 
 博客地址: [http://mkdocs.grft.top](http://mkdocs.grft.top)
 
-项目链接: [https://github.com/worst001/mkdocs_machine_learning](https://github.com/worst001/mkdocs_machine_learning)
+项目链接: [https://github.com/worst001/note_machine_learning](https://github.com/worst001/note_machine_learning)
 
 <p align="right">(<a href="#readme-top">返回顶部</a>)</p>
 
@@ -181,15 +181,15 @@
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
-[contributors-shield]: https://img.shields.io/github/contributors/worst001/mkdocs_machine_learning.svg?style=flat-square
-[contributors-url]: https://github.com/worst001/mkdocs_machine_learning/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/worst001/mkdocs_machine_learning.svg?style=flat-square
-[forks-url]: https://github.com/worst001/mkdocs_machine_learning/network/members
-[stars-shield]: https://img.shields.io/github/stars/worst001/mkdocs_machine_learning.svg?style=flat-square
-[stars-url]: https://github.com/worst001/mkdocs_machine_learning/stargazers
-[issues-shield]: https://img.shields.io/github/issues/worst001/mkdocs_machine_learning.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/worst001/mkdocs_machine_learning.svg
-[license-shield]: https://img.shields.io/github/license/worst001/mkdocs_machine_learning.svg?style=flat-square
-[license-url]: https://github.com/worst001/mkdocs_machine_learning/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/worst001/note_machine_learning.svg?style=flat-square
+[contributors-url]: https://github.com/worst001/note_machine_learning/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/worst001/note_machine_learning.svg?style=flat-square
+[forks-url]: https://github.com/worst001/note_machine_learning/network/members
+[stars-shield]: https://img.shields.io/github/stars/worst001/note_machine_learning.svg?style=flat-square
+[stars-url]: https://github.com/worst001/note_machine_learning/stargazers
+[issues-shield]: https://img.shields.io/github/issues/worst001/note_machine_learning.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/worst001/note_machine_learning.svg
+[license-shield]: https://img.shields.io/github/license/worst001/note_machine_learning.svg?style=flat-square
+[license-url]: https://github.com/worst001/note_machine_learning/blob/main/LICENSE.txt
 <!-- [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555 -->
 <!-- [linkedin-url]: https://linkedin.com/in/shaojintian -->
